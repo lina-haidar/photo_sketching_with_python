@@ -47,6 +47,7 @@ Experiment with both methods to see the difference. The average method treats th
 
 <br />
 <br />
+
 ## Step 2: Blur the gray image:
 
 <br />
